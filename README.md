@@ -6,4 +6,4 @@ This is an encryptor for your private application or sharing to your friends
      <h4>instantiate encryptor class like this:Encryptor Your_Variable_Of_Choice=new Encryptor();</h4>
      <h4>To use the encryptor do this:Your_Variable_Of_Choice.Encryptor("String here")</h4>
     <h4>To use decryptor class do this:Your_Variable_Of_Choice.Decryptor("Encrypted String here")</h4>
-    <h4> Check my releases:[Release](https://github.com/aspectdev-ph/Pencryptor/releases/tag/v1)</h4>
+    <h4> Check my releases:[Release](https://github.com/aspectdev-ph/Pencryptor/releases)</h4>
