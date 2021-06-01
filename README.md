@@ -1,4 +1,5 @@
 # Pencryptor
+
 > This is an encryptor for your private application or sharing to your friends.
 
 ## Requirements
@@ -7,6 +8,7 @@
 - [MySQL Community Server >= 5.7](https://dev.mysql.com/downloads/mysql/5.7.html)
 
 ## Guide
+
 1. Import the **Pencryptor.jar** in your project
 2. Instantiate encryptor class like this: **Encryptor Your_Variable_Of_Choice = new Encryptor();**
 3. To use the encryptor do this: **Your_Variable_Of_Choice.Encryptor("String here")**
